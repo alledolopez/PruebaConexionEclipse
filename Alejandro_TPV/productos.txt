@@ -1,0 +1,3 @@
+Cocacola:1.0:10
+Cerveza:1.6:20
+Tortilla:2.0:0
